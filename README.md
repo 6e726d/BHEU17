@@ -12,4 +12,7 @@ This talk will present an in-depth security analysis of Wi-Fi Direct protocol in
 
 Project: https://github.com/6e726d/WIG
 
-Wi-Fi Direct functionality commit: https://github.com/6e726d/WIG/commit/f3a7ff6bdc621e51bb2294650b247ebcd7e7c0fc
+Wi-Fi Direct functionality commit
+ - https://github.com/6e726d/WIG/commit/f3a7ff6bdc621e51bb2294650b247ebcd7e7c0fc
+ - https://github.com/6e726d/WIG/commit/7e6e8643c9583a3136c35716f103b5c47638a614
+ - https://github.com/6e726d/WIG/commit/86b484b2a4f6de31c7abea73e56e7e34a44ae7c3
